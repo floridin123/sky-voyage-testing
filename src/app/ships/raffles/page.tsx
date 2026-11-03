@@ -17,7 +17,7 @@ const marcellus = Marcellus({
 export default function Page(){
   const [isLoaded, setIsLoaded] = useState(false);
 
-  const interiorImages = [
+    const interiorImages = [
     '../raffles/rafflesint1.jpg', '../raffles/rafflesint2.jpg', '../raffles/rafflesint3.jpg', '../raffles/rafflesint4.jpg',
     '../raffles/rafflesint5.jpg', '../raffles/rafflesint6.jpg', '../raffles/rafflesint7.jpg', '../raffles/rafflesint8.jpg',
     '../raffles/rafflesint9.jpg', '../raffles/rafflesint10.jpg'
