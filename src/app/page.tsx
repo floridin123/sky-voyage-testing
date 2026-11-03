@@ -11,7 +11,7 @@ import { Marcellus } from "next/font/google"
 import { useEffect, useState } from "react"
 
 const marcellus = Marcellus({
-  weight: ['400'],
+     weight: ['400'], subsets: ['latin'],
 });
 
 export default function Home(){

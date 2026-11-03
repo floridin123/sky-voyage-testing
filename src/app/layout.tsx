@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 const marcellus = Marcellus({
-  weight: ['400'],
+     weight: ['400'], subsets: ['latin'],
 });
 
 export const metadata: Metadata = {
